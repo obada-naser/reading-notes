@@ -15,5 +15,9 @@
 4. paragraphs
 5. text style
 
+And here is summary of my background:
+
+Hello, my name is obada hemadneh and I am 24 years old. I am fresh graduate in telecommunication engineer. I have basic knowledge in programming and I'm here to develop my knowledge to become a better engineer.
+
 
 
