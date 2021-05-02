@@ -1,6 +1,7 @@
 # reading-notes
 
-**Mindset is the reason why some people who has no talent or anything can achieve what they dream and ambious for. Hence, if someone has both mindset and talent at the same  time it can open to them**
+**Mindset is the reason why some people who has no talent or anything can achieve what they dream and ambious for. Hence, if someone has both mindset and talent at the same  time it can open to them a whole new world.**
+
 **to be always in agrowth mindset:**
 - embrace challenges
 - do more effort
