@@ -4,11 +4,11 @@ Hello, my name is obada hemadneh and I am 24 years old. I am fresh graduate in t
 
 # Table of content:
 
-assignment | links
+Assignment | Links
 ---------- |  ----------
 Read1      |  [Read1](read1.md) 
 Read2      |  [Read2](read2.md)
-lab1      |  [Read2](lab1.md)
+lab1      |  [Lab1](lab1.md)
 
 
 
