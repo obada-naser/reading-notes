@@ -8,7 +8,7 @@ Assignment | Links
 ---------- |  ----------
 Read1      |  [Read1](read1.md) 
 Read2      |  [Read2](read2.md)
-lab1      |  [Lab1](lab1.md)
+lab1       |  [Lab1](lab1.md)
 
 
 
