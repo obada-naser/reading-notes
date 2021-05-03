@@ -19,13 +19,17 @@ Tracking changes is done using something called version control and it works by 
 2. Cloning: creating a copy of an existing Git repository from a particular server.
 
 ## workflow:-
-* Working Directory: The actual files reside here.
+* Working Directory: The actual files reside here. 
+
 * Index: The area used for staging
+
 * Head: Points to the most recent commit
-as it show on this link [Workflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+as it show on this link
+ ![Workflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 ## for more information:-
-get to this [Link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
+get to this
+ [Link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
 
 
