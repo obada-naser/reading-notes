@@ -25,5 +25,7 @@ read6      | [Read6](read6.md)
 ## Table of content:
 
 Assignment | Links
----------- |  ----------
+---------- | ----------
+Class 1    | [Class 1](class01.md)
+
  
