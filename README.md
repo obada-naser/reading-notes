@@ -17,7 +17,7 @@ Read3b     |  [Read3b](read3b)
 Read4     |  [Read4](read4.md) 
 Read5      | [Read5](read5.md)
 read6      | [Read6](read6.md)
-<<<<<<< HEAD
+
 
 
 # Code 201 Reading Notes
