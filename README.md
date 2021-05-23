@@ -27,5 +27,6 @@ read6      | [Read6](read6.md)
 Assignment | Links
 ---------- | ----------
 Class 1    | [Class 1](class01.md)
+Class 2    | [Class 2](class02.md)
 
  
