@@ -28,5 +28,5 @@ Assignment | Links
 ---------- | ----------
 Class 1    | [Class 1](201-course/class01.md)
 Class 2    | [Class 2](201-course/class02.md)
-
+Class 3    | [Class 3](201-course/class03.md)
  
