@@ -1,5 +1,8 @@
 # Problem Domain, Objects, and the DOM
 
+
+
+
 ## Object Literals
 
 The object is something who has **properties** and **methods** like in real-world there are many objects for example car is an object and every car has it is own properties and methods. But in general every car has the same properties such as weight and color and methods such as how to start and stop functions and that same thing is applied in JavaScript.
@@ -75,4 +78,7 @@ There are different ways to add or remove content from a DOM tree:
 when we already entered the DOM node we can now also change the attributes of this element by only two steps:
     *  first by selecting the element node with the attribute we need to change follow it with a period symbol.
     *  Then use one of those methods to work with it:  getAttribute(), hasAttribute(), setAttribute(), removeAttribute().
-    
+
+## Problem domain
+
+A problem domain is the area of expertise or application that needs to be examined to solve a problem. A problem domain is simply looking at only the topics of an individual's interest, and excluding everything else. 
