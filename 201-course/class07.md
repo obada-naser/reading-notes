@@ -68,7 +68,7 @@ there are two methods to update any object:
 
 ![example1](example1.png)
 
-**2.**square brackets:**
+**2.square brackets**
 ![example2](example2.png)
 
 to create many object we can use function as a template for the constructor and use it whenever we want.
