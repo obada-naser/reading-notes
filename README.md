@@ -50,6 +50,7 @@ Class 14b   | [Class 14b](201-course/class14b.md)
 
 Assignment | Links
 ---------- | ----------
+Class 1    | [Class 1](301-course/class01.md)
 
 
 # Code 401 Reading Notes: Advanced Software Development
