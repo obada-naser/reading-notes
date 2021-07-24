@@ -1,9 +1,9 @@
 # summary of my background:
 
-Hello, my name is obada hemadneh and I am 24 years old. I am fresh graduate in telecommunication engineer. I have basic knowledge in programming and I'm here to develop my knowledge to become a better engineer.
+Hello, my name is obada hemadneh and I am 25 years old. I am fresh graduate in telecommunication engineer. I have basic knowledge in programming and I'm here to develop my knowledge to become a better engineer.
 
 
-# Code 102 Reading Notes
+# Code 102 Reading Notes: Intro to Software Development
 
 ## Table of content:
 
@@ -20,7 +20,7 @@ Read6      | [Read6](102-course/read6.md)
 
 
 
-# Code 201 Reading Notes
+# Code 201 Reading Notes: Foundations of Software Development
 
 ## Table of content:
 
@@ -41,3 +41,15 @@ Class 12    | [Class 12](201-course/class12.md)
 Class 13    | [Class 13](201-course/class13.md)
 Class 14a   | [Class 14a](201-course/class14a.md)
 Class 14b   | [Class 14b](201-course/class14b.md)
+
+
+
+# Code 301 Reading Notes: Intermediate Software Development
+
+## Table of content:
+
+Assignment | Links
+---------- | ----------
+
+
+# Code 401 Reading Notes: Advanced Software Development
