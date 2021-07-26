@@ -52,6 +52,7 @@ Assignment | Links
 ---------- | ----------
 Class 1    | [Class 1](301-course/class01.md)
 Class 2    | [Class 2](301-course/class02.md)
+Class 3    | [Class 3](301-course/class03.md)
 
 
 # Code 401 Reading Notes: Advanced Software Development
