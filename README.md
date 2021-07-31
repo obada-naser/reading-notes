@@ -55,7 +55,7 @@ Class 2    | [Class 2](301-course/class02.md)
 Class 3    | [Class 3](301-course/class03.md)
 Class 4    | [Class 4](301-course/class04.md)
 Class 5    | [Class 5](301-course/class05.md)
-
+Class 6    | [Class 6](301-course/class06.md)
 
 
 # Code 401 Reading Notes: Advanced Software Development
