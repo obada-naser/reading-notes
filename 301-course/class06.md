@@ -70,4 +70,4 @@ It is a package manager that comes bundled with Node.
 
 ## Things I want to know more about
 
-I want to know more about node.js and npm anh how to use them in our programming.
+I want to know more about node.js and npm and how to use them in our programming.
