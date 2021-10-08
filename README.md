@@ -70,3 +70,10 @@ Class 12    | [Class 12](301-course/class12.md)
 Class 13    | [Class 13](301-course/class13.md)
 
 ## Code 401 Reading Notes: Advanced Software Development
+
+
+### Table of content:
+
+Assignment | Links
+---------- | ----------
+Class 1    | [Class 1](401-course/class01.md)
