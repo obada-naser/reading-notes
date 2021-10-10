@@ -76,4 +76,5 @@ Class 13    | [Class 13](301-course/class13.md)
 
 Assignment | Links
 ---------- | ----------
-Class 1    | [Class 1](401-course/class01.md)
+Java Basics    | [Class 1](401-course/class01.md)
+Arrays, Loops, Imports |  [Class 2](401-course/class02.md)
