@@ -79,4 +79,5 @@ Assignment | Links
 Java Basics    | [Class 1](401-course/class01.md)
 Arrays, Loops, Imports |  [Class 2](401-course/class02.md)
 Maps, primitives, File I/O |  [Class 3](401-course/class03.md)
-OOP        |[Class 4](401-course/class03.md)
+OOP        |[Class 4](401-course/class04.md)    
+Linked Lists        |[Class 5](401-course/class05.md)
