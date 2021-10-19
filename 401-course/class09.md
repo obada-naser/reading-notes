@@ -1,4 +1,8 @@
-#  The HTTP Request Lifecycle
+# WRRC and Java
+
+
+
+##  The HTTP Request Lifecycle
 
 When searching anything in google or in browser we use a specific syntax of url to get us connected with the http server and here I will talk about these steps:
 
@@ -8,7 +12,7 @@ When searching anything in google or in browser we use a specific syntax of url 
 4. Send an HTTP Request: when the connection is established the host sends an http request to the http server that I need these information from this place.
 5.  Tearing Down and Cleaning Up: once the data sending and receiving is done it. the client sends a fin packet to the server and with that the four way handshake is finished. And the browser start processing the data.
 
-# Java HTTP Request example
+## Java HTTP Request example
 
 Here we can present a steps to perform HTTP requests by java using the HttpUrlConnection or a HttpClient API:-
 
