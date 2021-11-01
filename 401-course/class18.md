@@ -1,20 +1,23 @@
-#  Spring and Sockets
+# Web App Security
+
+there are many relations between the entities like one-to-one, many-to-one, and many to many and here we will talk about many to many relationship and what annotation many-to-many is for.
+
+## Hibernate Many to Many tutorial
 
 
-There are different levels for network and when we get to higher level we get closer to the client and becomes more specific for the request. Here we will build an application that sends messages between a browser and server by using WebSocket and to specific we will be using a STOMP that resides on the lower-level of webSocket.
-In this article we will build a session between the client and the server by sending name and receiving a greeting response.
+### a visual of the relation
+many to many relation can specified like when we have many projects and many employees and we can give more than one employee a more than one projects so it is not for each employee a project or the opposite therefore here we will use the employee id as the primary key and project_id as the primary key for the project and we can join them by the join table to connect between them.
 
+### Database 
+As for the entities to make the many-to-many to work fine we need a three tables or entities. One for the employee, one for the project, and finally one for the joining table.
 
-## the guide to build it.
+### The Model Classes
 
-1. we can start either from scratch and that is by starting from the scratch or by downloading and unzipping the source repository.
-2. Adding the dependencies : we need to add the dependencies to make it work as we wish and also the Initializr only provides the basic functionality.
+So to create the tables we need an entities and that is why we create an entity for each table and we join them using @ManyToMany, @JoinTable and @JoinColumn annotations. As for the @ManyToMany annotation is used in both sides but the other annotations we use them in the owning side and for the previous example the employee is the owner so we add them to the employee side. @JoinColumn to specify the linking between them. 
 
-3. Creating the resource representation class: Now after finishing Initializr and dependencies, we can start creating the message we will send to the server. We will start sending the username message as JSON by creating a class. when the server receives the message will send a greeting message also as JSON object.
+### Execution 
+At last, if we need to show the relation we need to execute them and the best way is by using the JUNit tests.
 
-4. Creating the Controller to handle the message: Now when the client receive the hello message we need to make a controller to send a greeting message back. We will use in the controller an annotation called @MessageMapping.  now when the message is sent to the server, the client needs to wait or we can use sleep method so it does not waste any time.
+## Security: a humorous overview
 
-5. Configuring spring for STOMP message: Now to be able to work the previous work, we need to make the webSocket work as it is the medium between them. So we will configure WebSocketConfig class.
-6. Creating A browser client: to make our application works we need the front-end to work so we need to test  the sending and receiving from the server side. So we need to create an index.html file and import SockJS and app.js. Then
-7. Executing the application: At last we will execute the application and run the application from @SpringBootApplication and it will add all the the previous annotations to the application.
-8. Finally, we will use  http://localhost:8080  with whatever routes we created.
+From my reading to the article, we can conclude that because of the increasing advance of the technology the privacy became something is most important and we can not escape any steal of our information either by the companies as legal companies or by the hackers or viruses. As for the companies like facebook there is no escape form their stealing however the danger comes from the hackers. The hackers have always search for a methods to get to any unwanted information using different approaches like sending suspicious emails and links or from the address. In the end, our world became less privacy from before even if you are not using the internet they can search any way to get your information. 
