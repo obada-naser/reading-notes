@@ -94,4 +94,4 @@ Spring Authorization|[Class 17](401-course/class17.md)
 Web App Security|[Class 18](401-course/class18.md)
  Spring and Sockets|[Class 19](401-course/class19.md)
 Android Fundamentals|[Class 26](401-course/class26.md)
-
+Intents, Activities, and SharedPreferences|[Class 27](401-course/class27.md)
