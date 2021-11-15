@@ -26,4 +26,4 @@ We can arrange the items using three types of layout managers such as:
 * StaggeredGridLayoutManager :it has the same functionality as GridLayoutManager with a little modifications.
 
 
-finally, we need to define two things to make the recycleViewer to work in a perfect way one is the adaptor that creates the ViewHolder and in turn the ViewHolder is the container for the views that in turn contains the layout for each item. also, the adaptor bind the views with data.
+finally, we need to define two things to make the recycleViewer to work in a perfect way one is the adaptor that creates the ViewHolder and in turn the ViewHolder is the container for the views that in turn contains the layout for each item. also, the adaptor bind the views with data and override these methods:onCreateViewHolder(),onBindViewHolder(),getItemCount().
