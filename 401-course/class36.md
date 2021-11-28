@@ -14,6 +14,6 @@ There are many services that are provided by the amplify aws. One of the service
 ## Cognito platform support
 cognito supports many platforms but most of them mobile sdk such as ios,android, unity and also javascript(not mobile).
 
-## Staring with cognito
+## Starting with cognito
 starting with it is not hard only creating account and then by using the console we can start by downloading aws sdk mobile or by using it as a web service.
 
