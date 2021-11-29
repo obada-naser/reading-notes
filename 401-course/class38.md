@@ -19,5 +19,5 @@ One of the services that is provided by ams is notifications or sending notifica
 * FIFO: It means the first in first out messaging and because it gets the data in correct order, it used in anything important and needs to be specified like government papers It supports more data.
 
 
-finally there are steps to implemnt the facout event notification;
+finally there are steps to implement the aws event notification;
 
